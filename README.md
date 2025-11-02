@@ -7,6 +7,7 @@ A curated collection of **free resources** to help you learn and master various 
 
 ## 🧠 Table of Contents
 1. [AI / Machine Learning](#-ai--machine-learning)
+2. [Git & Github](#-git--github)
 
 ---
 
@@ -19,4 +20,11 @@ A curated collection of **free resources** to help you learn and master various 
   
 ---
 
+## Git & Github
+
+- [Learn Git – Full Course](https://www.youtube.com/watch?v=zTjRZNkhiEU)
+- [Git & GitHub Tutorial | Visualized Git Course](https://www.youtube.com/watch?v=S7XpTAnSDL4)
+- [learngitbranching](https://learngitbranching.js.org/)
+
+---
 > 💡 **Tip:** Save this repo for a structured learning path and jump between topics as you progress from beginner → advanced.
